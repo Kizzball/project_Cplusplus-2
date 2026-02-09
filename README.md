@@ -12,7 +12,7 @@ Implement some logic for at least three of the following:
   - BeginPlay
   - Tick
   - EndPlay
-- Use UE_LOG() to clearly label which function is running.
+- Use UE_LOG () to clearly label which function is running.
 - Spawn the Actor at runtime (not placed in the level).
 
 Explain your reasoning and overall approach  
